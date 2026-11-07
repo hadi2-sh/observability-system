@@ -166,7 +166,7 @@ observability-system/
 
 ```bash
 
-git clone <YOUR\_GITHUB\_REPOSITORY\_URL>
+git clone https://github.com/hadi2-sh/observability-system.git
 
 cd observability-system
 
